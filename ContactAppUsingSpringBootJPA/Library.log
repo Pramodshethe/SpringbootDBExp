@@ -1,0 +1,7 @@
+2018-02-20 21:31:33.839  INFO 40992 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-02-20 21:31:33.854  INFO 40992 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-02-20 21:31:34.120  INFO 40992 --- [localhost-startStop-1] o.a.c.c.C.[.[localhost].[/contact]       : Initializing Spring embedded WebApplicationContext
+2018-02-20 21:31:34.479  INFO 40992 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2018-02-20 21:34:18.209  INFO 39092 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-02-20 21:34:18.209  INFO 39092 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.27
+2018-02-20 21:34:18.475  INFO 39092 --- [localhost-startStop-1] o.a.c.c.C.[.[localhost].[/contact]       : Initializing Spring embedded WebApplicationContext
